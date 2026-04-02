@@ -1,6 +1,6 @@
 # AAI6600 ML Group Project — EDA Notebook (Wei Dong)
 
-This repository contains my individual EDA contribution for the AAI6600 ML Group Project.
+This repository contains a full-data EDA on the NSL-KDD dataset — all 125,973 training records included, without any filtering or subsetting.
 
 ## Notebook
 `notebooks/01_eda_nsl_kdd.ipynb`
